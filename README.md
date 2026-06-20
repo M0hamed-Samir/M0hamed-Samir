@@ -24,8 +24,3 @@ Open to connect — let's talk frontend, Angular, or design systems.
 ## Skills
 - **Frontend:** Angular, TypeScript, RxJS, NgRx, JavaScript, HTML, CSS, SCSS
 - **Design:** Figma (UI/UX design, prototyping, design systems)
-- **Integration:** REST APIs
-
-## GitHub Stats 🤩
-[![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=M0hamed-Samir&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Mohamed's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M0hamed-Samir&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
