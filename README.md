@@ -11,7 +11,7 @@ Open to connecting — let's discuss frontend development, or design systems.
 - Developing & maintaining frontend systems for **EgyptAir's aviation platforms**
 
 ## Featured Projects
-- **[Graduation Project Name]** — *(coming soon)*: Brief description of what it solves and the problem it addresses.
+- **[Madarstna — School Management System](https://github.com/M0hamed-Samir/my-school-client)** — Multi-role school management platform with separated Admin, Teacher, and Student portals. Led architecture, role-based auth, and core modules (dashboards, attendance, staff, departments, holidays). Built with Angular 14.
 - **[Carevio Admin Dashboard](https://admin-panel-carevio.netlify.app/)** — Admin panel for a home-nursing booking platform: nurse verification, bookings, and an earnings system with automated revenue-split and cash reconciliation logic.
 - **[ITI Client Website](https://carevio.netlify.app/#/)** — Public-facing booking platform for home-nursing services, built with a teammate (Rodina Salama, repo owner). Contributed the real-time notification system, full Arabic/English localization, and the nurse onboarding & booking flow.
 
